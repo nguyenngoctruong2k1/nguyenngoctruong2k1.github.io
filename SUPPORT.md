@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 ## Where to get help
 
