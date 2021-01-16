@@ -8,10 +8,10 @@ Hào
 Trưởng
 
 ## 2. Ngân sách
-    1600K 
+1600K 
 
 ## 3. Số người tham dự
-    20 người
+20 người
 
 ## 4. Những thứ cần mua (<=1300K)
 - Ăn (<=950K)
@@ -39,7 +39,7 @@ Trưởng
     - Chén (Mua 30 cái)
     - Ly (Mua 30 cái)
     - Đĩa (Mua 10 cái)
-    
+
 ## 5. Kế hoạch mua dự kiến
 - Sáng (Hào, Nhật Anh, Huệ, Trưởng)
     - Ăn (<=750K)
